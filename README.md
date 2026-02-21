@@ -1,7 +1,3 @@
-
-
-
-
 # 🌐 Syed Ahmed Mohiuddin - Professional Portfolio
 
 A modern, responsive, and professional portfolio website built with React.js and CSS3. Showcasing projects, skills, and services with smooth animations and interactive UI.
@@ -19,6 +15,7 @@ A modern, responsive, and professional portfolio website built with React.js and
 - **SEO Optimized** - Clean semantic HTML structure
 
 ## 🛠️ Tech Stack
+
 
 - **Frontend**: React.js 18+
 - **Styling**: CSS3 (Custom)
